@@ -11,7 +11,7 @@ Auxtomate sxangxigi ikse tajpatan tekston al cxapelata teksto.
 = Maniero =
 Mi faras vortaran strukturon kiu enhavas cxiujn unikodajxojn {Unua subversio}
 
-Mi faros tiel ke dum la programo kuras, gxi legas la lastajn tajpitajn signojn kaj se tiu enhavas [eron el la vortarajxo]+[x|X] > cxapellitero. {Eldonota kiel versio 0.1.0}
+Mi faros tiel ke dum la programo kuras, gxi legas la lastajn tajpitajn signojn kaj se tiu enhavas (eron el la vortarajxo)+(x|X) > cxapellitero. {Eldonota kiel versio 0.1.0}
 
 Poste mi faru tion elektebla, eble per varma klavo por sxalti la funkciadon de la programo. Eble mi aldonu ankaux aliajn eblojn al la programo, kiel aliaj klavoj ol x por aktivigi sxangxon. {0.2.0-0.5.0}
 
