@@ -1,0 +1,2 @@
+maj_espliteroj = {'C': u"\u0108", 'G': u"\u011C", 'H': u"\u0124"}
+min_espliteroj = {'c': u"\u0109", 'g': u"\u011D", 'h': u"\u0125"}
