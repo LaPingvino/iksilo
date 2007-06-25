@@ -15,4 +15,5 @@ def transskribu(enigo):
     for deveno, aliro in espliteroj.items():
         eligo = eligo.replace(deveno+"x", aliro)
         eligo = eligo.replace(deveno+"X", aliro)
+    return eligo
     
