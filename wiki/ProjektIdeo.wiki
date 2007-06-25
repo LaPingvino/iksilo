@@ -6,7 +6,7 @@ En cxi tiu pagxo mi mallonge klarigas kiel mi volas atingi mian celon.
 
 
 = Celo =
-Auxtomate sxangxigi ikse tajpatan tekston al cxapelata teksto.
+Auxtomate sxangxigi ikse tajpatan tekston al cxapelita teksto.
 
 = Maniero =
 Mi faras vortaran strukturon kiu enhavas cxiujn unikodajxojn {Unua subversio}
