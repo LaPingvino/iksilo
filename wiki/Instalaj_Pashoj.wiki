@@ -19,3 +19,7 @@ Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
 Nun vi povas tajpi linukse la Esperantajn literojn per la X-sistemo!
 
 N.B.: Vi povas mem ŝanĝi la liveritan dosieron, por ekzemple aldoni ke au kaj eu ŝanĝiĝas al aŭ kaj eŭ. Mem mi tion ne ŝatas, sed eble vi jes... :P
+
+= Ĉefa fonto efektivigi ĉi tiun solvon =
+
+http://lists.freedesktop.org/archives/scim/2004-October/001024.html
