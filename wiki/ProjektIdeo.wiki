@@ -9,12 +9,16 @@ En cxi tiu pagxo mi mallonge klarigas kiel mi volas atingi mian celon.
 Auxtomate sxangxigi ikse tajpatan tekston al cxapelita teksto.
 
 = Maniero =
+*NE PLU VALIDAS*
+{{{
 Mi faras vortaran strukturon kiu enhavas cxiujn unikodajxojn {Unua subversio}
 
-~~Mi faros tiel ke dum la programo kuras, gxi legas la lastajn tajpitajn signojn kaj se tiu enhavas (eron el la vortarajxo)+(x|X) > cxapellitero. {Eldonota kiel versio 0.1.0}~~
-Cxi tio montrigxas ne aux nur malfacile ebla. Do eble mi sxangxu la ideon al transdona transliterumilo... Cxio ajn funkcianta kaj utila igxos versio 0.1.0
+Mi faros tiel ke dum la programo kuras, gxi legas la lastajn tajpitajn signojn kaj se tiu enhavas (eron el la vortarajxo)+(x|X) > cxapellitero. {Eldonota kiel versio 0.1.0}
 
 Poste mi faru tion elektebla, eble per varma klavo por sxalti la funkciadon de la programo. Eble mi aldonu ankaux aliajn eblojn al la programo, kiel aliaj klavoj ol x por aktivigi sxangxon. {0.2.0-0.5.0}
 
 Poste mi eble aldonu grafikan interfacon (por kiu mi bezonos multe da helpo, mi scias nenion pri tio!) {0.6.0-?1.0.0?}
+}}}
+
+Mi forjxetas la gxisnunon kaj nun liveras IME-dosierojn. Male al la gxisnuna ideo, cxi tio sxajnas ja povi funkcii. Sekvos instrukcioj pri kiel instali gxin. La resto de la projekto estos precipe pakado kun instalilo ktp.
 
