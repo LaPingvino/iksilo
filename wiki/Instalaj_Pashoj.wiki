@@ -1,0 +1,21 @@
+#summary Ĉi tie sekvas paŝoj por instali la IME-dosieron en via Linuks-sistemo
+#labels Featured,Phase-Deploy
+
+= Dependaĵoj =
+
+Apud la dosiero de ĉi tiu retejo, vi bezonos SCIM.
+Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
+  * scim
+  * scim-m17n
+  * m17n-db
+
+= Kiel instali? =
+
+  * Instalu la supre menciitajn pakaĵojn kaj ties dependaĵojn. (Povas daŭri iom. Almenaŭ per Ubuntu mi estis preta post mallonge, ĉar ĉio troveblas en ĝia pakaĵaro.)
+  * Elŝutu la dosieron eo-x.mim kaj metu ĝin en _/usr/share/m17n_ aŭ en _/usr/local/share/m17n_ , kie ajn ĝi troviĝas. *[root-rajtoj necesas]*
+  * (Eble ĉi tiu paŝo ne necesas. Bonvolu raporti pri tio) En la sama dosierujo kiel en la antaŭa paŝo, malfermu la dosieron _mdb.dir_ kaj aldonu la sekvan linion: {{{(input-method eo eo-x "eo-x.mim")}}}. *[root-rajtoj necesas]*
+  * Startu la programon scim kaj agordu ĝin por uzi la ĝustas IME-on. Povas esti ke vi por tio bezonas kelkfoje restarti la sistemon. Mi mem ankoraŭ ne plene scias kiel mi tute ĝuste sciis aktivigi ĝin, do se vi havas plian paŝaron por ĉi tio: ĝi estas ege bonvena!
+
+Nun vi povas tajpi linukse la Esperantajn literojn per la X-sistemo!
+
+N.B.: Vi povas mem ŝanĝi la liveritan dosieron, por ekzemple aldoni ke au kaj eu ŝanĝiĝas al aŭ kaj eŭ. Mem mi tion ne ŝatas, sed eble vi jes... :P
