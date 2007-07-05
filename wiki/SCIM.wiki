@@ -1,4 +1,5 @@
-#summary One-sentence summary of this page.
+#summary Kiel agordi SCIM por uzi la dosierojn
+#labels Phase-Deploy,Phase-Requirements
 
 = Agordi SCIM por Esperanta tajpado =
 
@@ -10,7 +11,7 @@
  * Iru al Other kaj tie elektu la aranĝon kun _eo_ en la nomo
  * Apliku kaj Akceptu
  * Restartu la sistemon
- * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per {Ctrl+Spaco})
+ * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per *{Ctrl+Spaco}*)
  * Eventuale ankoraŭfoje restartu la sistemon
 
 Multan plezuron!
