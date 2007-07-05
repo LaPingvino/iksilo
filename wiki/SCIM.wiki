@@ -2,6 +2,15 @@
 
 = Agordi SCIM por Esperanta tajpado =
 
- * Startu SCIM per la komando scim. ({Alt+F2} scim {Enigklavo})
+ * Startu SCIM per la komando scim. (*{Alt+F2}* scim *{Enigklavo}*)
  * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
- * {iros plu...}
+ * Elektu SCIM Setup
+ * Iru al IMEngine > Global Setup
+ * Alklaku Disable All
+ * Iru al Other kaj tie elektu la aranĝon kun _eo_ en la nomo
+ * Apliku kaj Akceptu
+ * Restartu la sistemon
+ * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per {Ctrl+Spaco})
+ * Eventuale ankoraŭfoje restartu la sistemon
+
+Multan plezuron!
