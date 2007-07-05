@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= Agordi SCIM por Esperanta tajpado =
+
+ * Startu SCIM per la komando scim. ([Alt+F2] scim [Enigklavo])
+ * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
+ * [iros plu...]
