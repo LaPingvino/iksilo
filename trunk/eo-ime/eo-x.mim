@@ -1,8 +1,8 @@
-;;; <li> eo.mim
+;;; <li> eo-x.mim
 ;;;
 ;;; Inputmethod for Esperanto // Enigmetodo por Esperanto
 
-(title "eo")
+(title "eo-x")
 
 (map
   (trans
