@@ -2,6 +2,8 @@
 ;;;
 ;;; Inputmethod for Esperanto // Enigmetodo por Esperanto
 
+(input-method eo x-sistemo)
+
 (title "eo-x")
 
 (map
