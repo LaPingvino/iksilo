@@ -12,7 +12,7 @@ Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
 = Kiel instali? =
 
   * Instalu la supre menciitajn pakaĵojn kaj ties dependaĵojn. (Povas daŭri iom. Almenaŭ per Ubuntu mi estis preta post mallonge, ĉar ĉio troveblas en ĝia pakaĵaro.)
-  * Elŝutu la dosieron [http://iksilo.googlecode.com/files/eo-x.mim eo-x.mim] aŭ (preferinde) la plej novan pakaĵon de la frontpaĝo de ĉi tiu retejo kaj metu la mim-dosierojn kiujn vi volas uzi en _/usr/share/m17n_ aŭ en _/usr/local/share/m17n_ , kiu ajn haveblas en via sistemo. *[root-rajtoj necesas]*
+  * Elŝutu [http://code.google.com/p/iksilo/downloads/list la plej novan pakaĵon de ĉi tiu retejo] kaj metu la mim-dosierojn kiujn vi volas uzi en _/usr/share/m17n_ aŭ en _/usr/local/share/m17n_ , kiu ajn haveblas en via sistemo. *[root-rajtoj necesas]*
   * (De versio r31 ĉi tiu paŝo ne plu estas necesa) En la sama dosierujo kiel en la antaŭa paŝo, malfermu la dosieron _mdb.dir_ kaj aldonu la sekvan linion: {{{(input-method eo eo-x "eo-x.mim")}}}. *[root-rajtoj necesas]*
   * Startu la programon scim kaj [SCIM agordu ĝin] por uzi la ĝustas IME-on. Verŝajne vi por tio bezonas plurfoje restarti la sistemon.
 
