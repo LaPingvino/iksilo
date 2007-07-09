@@ -1,0 +1,53 @@
+;;; <li> eo-h.mim
+;;;
+;;; Inputmethod for Esperanto // Enigmetodo por Esperanto
+
+(input-method eo h-sistemo)
+
+(title "eo-h")
+
+(map
+  (trans
+ 
+("ch" "ĉ")
+("gh" "ĝ")
+("hh" "ĥ")
+("jh" "ĵ")
+("sh" "ŝ")
+("uh" "ŭ")
+("Ch" "Ĉ")
+("Gh" "Ĝ")
+("Hh" "Ĥ")
+("Jh" "Ĵ")
+("Sh" "Ŝ")
+("Uh" "Ŭ")
+("CH" "Ĉ")
+("GH" "Ĝ")
+("HH" "Ĥ")
+("JH" "Ĵ")
+("SH" "Ŝ")
+("UH" "Ŭ")
+("chh" "ch")
+("ghh" "gh")
+("hhh" "hh")
+("jhh" "jh")
+("shh" "sh")
+("uhh" "uh")
+("Chh" "Ch")
+("Ghh" "Gh")
+("Hhh" "Hh")
+("Jhh" "Jh")
+("Shh" "Sh")
+("Uhh" "Uh")
+("CHH" "CH")
+("GHH" "GH")
+("HHH" "HH")
+("JHH" "JH")
+("SHH" "SH")
+("UHH" "UH")
+   ))
+
+(state
+  (init
+    (trans)))
+
