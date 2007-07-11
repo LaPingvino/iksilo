@@ -10,8 +10,8 @@
  * Alklaku Disable All
  * Iru al Other kaj tie elektu la aranĝon kun _eo_ en la nomo
  * Apliku kaj Akceptu
- * Restartu la sistemon
+ * Restartu la sistemon (*{Ctrl+Alt+Backspace}*)
  * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per *{Ctrl+Spaco}*)
- * Eventuale ankoraŭfoje restartu la sistemon
+ * Eventuale ankoraŭfoje restartu la sistemon (*{Ctrl+Alt+Backspace}*)
 
 Multan plezuron!
