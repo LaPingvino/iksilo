@@ -6,6 +6,8 @@
 
 (title "EK-sistemo")
 
+(description "Skribi Esperanton per la iksa skribmetodo kaj per la fundamenta sistemo. Ĉi tiu maniero egalas al la defaŭltaj agordoj de EK.")
+
 (map
   (trans
  

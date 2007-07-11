@@ -6,6 +6,8 @@
 
 (title "eo-q")
 
+(description "Skribi Esperanton per la kua skribmetodo. Ĉi tio precipe estas ŝerco, sed povas esti utila ĉar literkombinoj kiel cq ktp preskaŭ ne uziĝas kaj la q-klavo en qwerty-klavaro situas tute angule.")
+
 (map
   (trans
  

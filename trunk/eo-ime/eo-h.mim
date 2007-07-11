@@ -6,6 +6,8 @@
 
 (title "eo-h")
 
+(description "Skribi Esperanton per postmeto de h-o.")
+
 (map
   (trans
  

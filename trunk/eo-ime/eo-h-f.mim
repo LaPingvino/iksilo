@@ -6,6 +6,8 @@
 
 (title "eo-h-f")
 
+(description "Skribi Esperanton per la fundamenta skribmetodo. ch, ..., sh iĝas ĉ, ..., ŝ kaj au kaj eu iĝas aŭ kaj eŭ.")
+
 (map
   (trans
  
