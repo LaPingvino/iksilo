@@ -6,6 +6,8 @@
 
 (title "eo-x")
 
+(description "Skribi Esperanton per la iksa skribmetodo.")
+
 (map
   (trans
  
