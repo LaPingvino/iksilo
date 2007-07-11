@@ -18,8 +18,19 @@ Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
 
 Nun vi povas tajpi linukse la Esperantajn literojn per la X-sistemo!
 
-N.B.: Vi povas mem ŝanĝi la liveritan dosieron, por ekzemple aldoni ke au kaj eu ŝanĝiĝas al aŭ kaj eŭ. Mem mi tion ne ŝatas, sed eble vi jes... :P
+~~N.B.: Vi povas mem ŝanĝi la liveritan dosieron, por ekzemple aldoni ke au kaj eu ŝanĝiĝas al aŭ kaj eŭ. Mem mi tion ne ŝatas, sed eble vi jes... :P~~
+
+Estas kelkaj diferencaj dosieroj en la pakaĵo, el kiuj vi povas elekti laŭ prefero metodon por skribi ĉapelajn literojn. Interalie estas x-metodo, h-metodo kaj q-metodo.
+
+http://iksilo.googlecode.com/svn/trunk/ekranfotoj/iksilo.jpg
 
 = Ĉefa fonto por efektivigi ĉi tiun solvon =
 
 http://lists.freedesktop.org/archives/scim/2004-October/001024.html
+
+
+
+
+
+
+s
