@@ -27,10 +27,3 @@ http://iksilo.googlecode.com/svn/trunk/ekranfotoj/iksilo.jpg
 = Ĉefa fonto por efektivigi ĉi tiun solvon =
 
 http://lists.freedesktop.org/archives/scim/2004-October/001024.html
-
-
-
-
-
-
-s
