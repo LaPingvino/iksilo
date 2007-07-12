@@ -1,0 +1,30 @@
+Ĉi tie sekvas paŝoj por instali la IME-dosieron en via Linuks-sistemo
+
+= Dependaĵoj =
+
+Apud la dosiero de ĉi tiu retejo, vi bezonos SCIM.
+Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
+  * scim
+  * scim-m17n
+  * m17n-db
+
+= Kiel instali? =
+
+  * Instalu la supre menciitajn pakaĵojn kaj ties dependaĵojn. (Povas daŭri iom. Almenaŭ per Ubuntu mi estis preta post mallonge, ĉar ĉio troveblas en ĝia pakaĵaro.)
+  * Metu la mim-dosierojn kiujn vi volas uzi en /usr/share/m17n aŭ en /usr/local/share/m17n , kiu ajn haveblas en via sistemo. [root-rajtoj necesas]
+  * Startu la programon scim kaj agordu ĝin laŭ la sube menciitaj paŝoj por uzi la ĝustas IME-on. Verŝajne vi por tio bezonas plurfoje restarti la sistemon.
+
+= Agordi SCIM por Esperanta tajpado =
+
+ * Startu SCIM per la komando scim. ({Alt+F2} scim {Enigklavo})
+ * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
+ * Elektu SCIM Setup
+ * Iru al IMEngine > Global Setup
+ * Alklaku Disable All
+ * Iru al Other kaj tie elektu la aranĝon kun eo en la nomo
+ * Apliku kaj Akceptu
+ * Restartu la sistemon per {Ctrl+Alt+Backspace}
+ * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per {Ctrl+Spaco} aŭ se vi havas Korean klavaron, per la Hanja-klavo.)
+ * Eventuale ankoraŭfoje restartu la sistemon ({Ctrl+Alt+Backspace})
+
+Multan plezuron!
