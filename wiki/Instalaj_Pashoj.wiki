@@ -9,6 +9,8 @@ Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
   * scim-m17n
   * m17n-db
 
+Anstataŭ SCIM vi ankaŭ povus uzi UIM. Mi ne testis tion. Se vi volas provi ĉi tion, atentu ke vi bezonos ankaŭ uim-m17n, ĉar sen subteno de m17n vi ne povas uzi la Esperantajn enigilojn.
+
 = Kiel instali? =
 
   * Instalu la supre menciitajn pakaĵojn kaj ties dependaĵojn. (Povas daŭri iom. Almenaŭ per Ubuntu mi estis preta post mallonge, ĉar ĉio troveblas en ĝia pakaĵaro.)
