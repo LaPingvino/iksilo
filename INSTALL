@@ -7,6 +7,7 @@ Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
   * scim
   * scim-m17n
   * m17n-db
+  * scim-gtk2-immodule (Dank'al Antono kaj ash_rabbi. Pro ŝajna eraro en Debian povas esti ke vi bezonas elŝuti kaj instali ĉi tiun aparte...)
 
 = Kiel instali? =
 
