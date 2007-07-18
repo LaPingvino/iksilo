@@ -8,7 +8,7 @@ Instalu jenon kaj *ĉiujn ceterajn ties dependaĵojn*:
   * scim
   * scim-m17n
   * m17n-db
-  * scim-gtk2-immodule (dank'al Antono k ash_rabbi)
+  * scim-gtk2-immodule (Dank'al Antono kaj ash_rabbi. Pro ŝajna eraro en Debian povas esti ke vi bezonas elŝuti kaj instali ĉi tiun aparte...)
 
 Anstataŭ SCIM vi ankaŭ povus uzi UIM. Mi ne testis tion. Se vi volas provi ĉi tion, atentu ke vi bezonos ankaŭ uim-m17n, ĉar sen subteno de m17n vi ne povas uzi la Esperantajn enigilojn.
 
