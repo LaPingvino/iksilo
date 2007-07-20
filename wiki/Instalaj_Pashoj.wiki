@@ -16,7 +16,7 @@ Anstataŭ SCIM vi ankaŭ povus uzi UIM. Mi ne testis tion. Se vi volas provi ĉi
 
   * Instalu la supre menciitajn pakaĵojn kaj ties dependaĵojn. (Povas daŭri iom. Almenaŭ per Ubuntu mi estis preta post mallonge, ĉar ĉio troveblas en ĝia pakaĵaro.)
   * Elŝutu [http://code.google.com/p/iksilo/downloads/list la plej novan pakaĵon de ĉi tiu retejo] kaj metu la mim-dosierojn kiujn vi volas uzi en _/usr/share/m17n_ aŭ en _/usr/local/share/m17n_ , kiu ajn haveblas en via sistemo. *[root-rajtoj necesas]*
-  * (De versio r31 ĉi tiu paŝo ne plu estas necesa) En la sama dosierujo kiel en la antaŭa paŝo, malfermu la dosieron _mdb.dir_ kaj aldonu la sekvan linion: {{{(input-method eo eo-x "eo-x.mim")}}}. *[root-rajtoj necesas]*
+  * _(De versio r31 ĉi tiu paŝo ne plu estas necesa)_ En la sama dosierujo kiel en la antaŭa paŝo, malfermu la dosieron _mdb.dir_ kaj aldonu la sekvan linion: {{{(input-method eo eo-x "eo-x.mim")}}}. *[root-rajtoj necesas]*
   * Startu la programon scim kaj [SCIM agordu ĝin] por uzi la ĝustas IME-on. Verŝajne vi por tio bezonas plurfoje restarti la sistemon.
 
 Nun vi povas tajpi linukse la Esperantajn literojn per la X-sistemo!
@@ -30,3 +30,4 @@ http://iksilo.googlecode.com/svn/trunk/ekranfotoj/iksilo.jpg
 = Ĉefa fonto por efektivigi ĉi tiun solvon =
 
 http://lists.freedesktop.org/archives/scim/2004-October/001024.html
+
