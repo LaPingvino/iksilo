@@ -13,7 +13,7 @@
  * Restartu la sistemon per *{Ctrl+Alt+Backspace}*
  * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per *{Ctrl+Spaco}*)
   * Aktivigu programon en kiu vi povas tajpi.
-  * Klaku sur la bildeton de klavaro kiu aperas.
+  * Klaku sur la bildeton de klavaro, tiu troviĝas en la taskopleto.
   * Elektu enigmetodon.
   * Tajpu "Eĥoŝanĝo ĉiuĵaŭde" por provi ĉu la ĉapeloj funkcias.
  * Eventuale ankoraŭfoje restartu la sistemon (*{Ctrl+Alt+Backspace}*) se ne funkcias kaj reprovu.
