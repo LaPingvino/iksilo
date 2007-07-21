@@ -4,17 +4,19 @@
 = Agordi SCIM por Esperanta tajpado =
 
  * Startu SCIM per la komando scim. (*{Alt+F2}* scim *{Enigklavo}*)
+(Nenecesaj paŝoj, ja rekomendindaj ĉar alie la programo ŝarĝos ĉiujn enigmetodojn kaj tio povas iom pezi por la sistemo.)
  * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
  * Elektu SCIM Setup
  * Iru al IMEngine > Global Setup
  * Alklaku Disable All
- * Iru al Other kaj tie elektu la aranĝon kun _eo_ en la nomo
+ * Iru al Other kaj tie elektu la aranĝojn kun _eo_ en la nomo kaj ĉiujn aliajn enigmetodojn kiujn vi volas uzi. *Atentu! Se vi ĉi tie nenion elektas, SCIM ne bone funkcios!*
  * Apliku kaj Akceptu
+(Fino de nenecesaj paŝoj)
  * Restartu la tutan komputilon aŭ la grafikan sistemon (*{Ctrl+Alt+Backspace}*)
  * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per *{Ctrl+Spaco}*)
   * Aktivigu programon en kiu vi povas tajpi.
   * Klaku sur la bildeton de klavaro, tiu troviĝas en la taskopleto.
-  * Elektu enigmetodon.
+  * Elektu enigmetodon, ekzemple eo-x-metodo aŭ eo-plena.
   * Tajpu "Eĥoŝanĝo ĉiuĵaŭde" por provi ĉu la ĉapeloj funkcias.
  * Eventuale ankoraŭfoje restartu la grafikan sistemon (*{Ctrl+Alt+Backspace}*) aŭ la tutan komputilon se ne funkcias, kaj reprovu.
 
