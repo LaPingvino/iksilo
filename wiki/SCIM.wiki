@@ -19,5 +19,3 @@
  * Eventuale ankoraŭfoje restartu la sistemon (*{Ctrl+Alt+Backspace}*) se ne funkcias kaj reprovu.
 
 Multan plezuron!
-
-s
