@@ -12,6 +12,10 @@
  * Apliku kaj Akceptu
  * Restartu la sistemon per *{Ctrl+Alt+Backspace}*
  * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per *{Ctrl+Spaco}*)
- * Eventuale ankoraŭfoje restartu la sistemon (*{Ctrl+Alt+Backspace}*)
+  * Aktivigu programon en kiu vi povas tajpi.
+  * Klaku sur la bildeton de klavaro kiu aperas.
+  * Elektu enigmetodon.
+  * Tajpu "Eĥoŝanĝo ĉiuĵaŭde".
+ * Eventuale ankoraŭfoje restartu la sistemon (*{Ctrl+Alt+Backspace}*) se ne funkcias kaj reprovu.
 
 Multan plezuron!
