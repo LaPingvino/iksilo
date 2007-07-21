@@ -13,10 +13,10 @@
  * Apliku kaj Akceptu
 (Fino de nenecesaj paŝoj)
  * Restartu la tutan komputilon aŭ la grafikan sistemon (*{Ctrl+Alt+Backspace}*)
- * Provu ĉu funkcias (vi povas ŝalti la enigmetodon per *{Ctrl+Spaco}*)
+ * Provu ĉu funkcias
   * Aktivigu programon en kiu vi povas tajpi.
   * Klaku sur la bildeton de klavaro, tiu troviĝas en la taskopleto.
-  * Elektu enigmetodon, ekzemple eo-x-metodo aŭ eo-plena.
+  * Elektu enigmetodon, ekzemple eo-x-metodo aŭ eo-plena. (Vi povos poste ŝalti aŭ malŝalti la enigmetodon per *{Ctrl+Spaco}*)
   * Tajpu "Eĥoŝanĝo ĉiuĵaŭde" por provi ĉu la ĉapeloj funkcias.
  * Eventuale ankoraŭfoje restartu la grafikan sistemon (*{Ctrl+Alt+Backspace}*) aŭ la tutan komputilon se ne funkcias, kaj reprovu.
 
