@@ -15,7 +15,9 @@
   * Aktivigu programon en kiu vi povas tajpi.
   * Klaku sur la bildeton de klavaro kiu aperas.
   * Elektu enigmetodon.
-  * Tajpu "Eĥoŝanĝo ĉiuĵaŭde".
+  * Tajpu "Eĥoŝanĝo ĉiuĵaŭde" por provi ĉu la ĉapeloj funkcias.
  * Eventuale ankoraŭfoje restartu la sistemon (*{Ctrl+Alt+Backspace}*) se ne funkcias kaj reprovu.
 
 Multan plezuron!
+
+s
