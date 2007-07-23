@@ -1,13 +1,15 @@
 #summary La estro kaj subtenanto de la projekto
 
-= Introduction =
+= Rolo en la projekto =
 
-Add your content here.
+LaPingvino estas la pripensinto, estro kaj faranto de ĉi tiu projekto.
 
 
-= Details =
+= Kiu mi estas? =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+= Kontaktu min =
+
+Vi povas kontakti min per la retlisto de ĉi tiu projekto: [http://groups.google.com/group/iksilo iksilo@googlegroups.com]
+
+Ankaŭ eblas kontakti min rekte, per retpoŝto, MSN aŭ Google Talk/Jabber: ikojba ĉe gmail punkto com
