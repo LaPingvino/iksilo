@@ -1,9 +1,0 @@
-Package: iksilo
-Version: 0.1.2
-Architecture: all
-Depends: scim, scim-m17n, m17n-db, scim-gtk2-immodule
-Installed-Size: 8.6
-Maintainer: Joop Kiefte <ikojba@gmail.com>
-Description: Cxi tio estas pakajxo por instali Esperantan enigmetodon (IME) en via sistemo. This package is meant to install the Esperanto IME on your system.
- .
- Homepage: http://code.google.com/p/iksilo
