@@ -1,5 +1,5 @@
 #summary En cxi tiu pagxo mi klarigas kiel mi volas efektivigi la celon.
-#labels Phase-Requirements,Phase-Design,Phase-Implementation
+#labels Phase-Requirements,Phase-Design,Phase-Implementation,Deprecated
 
 = Enkonduko =
 En cxi tiu pagxo mi mallonge klarigas kiel mi volas atingi mian celon.
