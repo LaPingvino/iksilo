@@ -1,0 +1,64 @@
+This is a translation/English adaption of the INSTALL-file given with the package. I hope it's helpful for you. Remember that the most up-to-date instructions always will be in the Esperanto files on the website.
+
+= Dependencies =
+
+Beside the files in the package, you'll need SCIM.
+Install mentioned files and all their dependencies:
+  * scim
+  * scim-m17n
+  * m17n-db
+  * scim-gtk2-immodule (Thanks to Antono and ash_rabbi. Because of (as it seems) an error in Debian it can be that you'll have to download and install this dependency apart from the others...)
+
+= How to install? =
+
+  * Install the above mentioned packages and their dependencies. (This can take some time. At least in Ubuntu I was ready soon, because everything was in their repository.)
+  * Put the mim-files you want to use into /usr/share/m17n or into /usr/local/share/m17n , whichever is valid for your system. [*administration rights are neccesary*]
+  * Start the program `scim` and setup by the steps mentioned below, to let it use the right IME. Probably you will need to reboot several times.
+
+= Setting up SCIM to type in Esperanto =
+
+Warning: If you have the Ubuntu-distribution or a similar one, it is possible that the SCIM-package you got has an error, because of which you will need to perform additional steps. You can read about this [* here]. In the newest version of Ubuntu this problem seems solved. In essence the page says you to use the command `im-switch -z en_US.UTF-8 -c`, in which you have to replace en_US.UTF-8 with the appropriate locale.
+
+    * Start SCIM with the command `scim`. ({Alt+F2} scim {Enter}) 
+
+(Malpli necesaj paŝoj, ja rekomendindaj ĉar alie la programo ŝarĝos ĉiujn enigmetodojn kaj tio povas iom pezi por la sistemo.)
+
+    * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
+    * Elektu SCIM Setup
+    * Iru al IMEngine > Global Setup
+    * Alklaku Disable All
+    * Iru al Other kaj tie elektu la aranĝojn kun eo en la nomo kaj eventuale el aliaj grupoj ĉiujn aliajn enigmetodojn kiujn vi volas uzi. Atentu! Se vi ĉi tie nenion elektas, SCIM ne bone funkcios!
+    * Apliku kaj Akceptu 
+
+(Fino de malpli necesaj paŝoj)
+
+    * Reboot your system, or only the graphical system (X). ({Ctrl+Alt+Backspace})
+    * Try whether it works
+          o Start the program in which you want to type.
+          o Click on the icon of SCIM (which shows a keyboard and can be found in the system tray).
+          o Select an inputmethod, for example eo-x-sistemo or eo-plena, in the menu Other. (You can switch it on and off afterwards with {Ctrl+Space})
+          o Type "Eĥoŝanĝo ĉiuĵaŭde" to try whether the Esperanto letters work. 
+    * When it doesn't work, reboot again the graphical system ({Ctrl+Alt+Backspace}) or your computer, and try again. 
+
+Much fun!
+
+-----
+Copyright (C) 2007 Joop Kiefte (LaPingvino)
+
+This file is part of the m17n contrib; a sub-part of the m17n
+library.
+
+The m17n library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1 of
+the License, or (at your option) any later version.
+
+The m17n library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with the m17n library; if not, write to the Free
+Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+Boston, MA 02110-1301, USA.
