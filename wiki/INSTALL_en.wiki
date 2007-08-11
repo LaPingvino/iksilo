@@ -1,3 +1,4 @@
+#labels Featured,Phase-Deploy
 This is a translation/English adaption of the INSTALL-file given with the package. I hope it's helpful for you. Remember that the most up-to-date instructions always will be in the Esperanto files on the website.
 
 = Dependencies =
@@ -21,16 +22,16 @@ Warning: If you have the Ubuntu-distribution or a similar one, it is possible th
 
     * Start SCIM with the command `scim`. ({Alt+F2} scim {Enter}) 
 
-(Malpli necesaj paŝoj, ja rekomendindaj ĉar alie la programo ŝarĝos ĉiujn enigmetodojn kaj tio povas iom pezi por la sistemo.)
+(Less neccesary steps, but recommended because otherwise the program loads all input methods and that can be heavy for your system.)
 
-    * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
-    * Elektu SCIM Setup
-    * Iru al IMEngine > Global Setup
-    * Alklaku Disable All
-    * Iru al Other kaj tie elektu la aranĝojn kun eo en la nomo kaj eventuale el aliaj grupoj ĉiujn aliajn enigmetodojn kiujn vi volas uzi. Atentu! Se vi ĉi tie nenion elektas, SCIM ne bone funkcios!
-    * Apliku kaj Akceptu 
+    * Right-click the icon of SCIM (which shows a keyboard and can be found in the system tray).
+    * Select SCIM Setup
+    * Go to IMEngine > Global Setup
+    * Click Disable All
+    * Go to Other and select there the layouts with eo in the name and maybe other layouts out of other groups to your liking. Warning! If you don't choose anything, SCIM will not work like you want to!
+    * Confirm everything
 
-(Fino de malpli necesaj paŝoj)
+(End of less neccesary steps)
 
     * Reboot your system, or only the graphical system (X). ({Ctrl+Alt+Backspace})
     * Try whether it works
