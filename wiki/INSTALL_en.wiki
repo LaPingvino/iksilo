@@ -35,10 +35,10 @@ Warning: If you have the Ubuntu-distribution or a similar one, it is possible th
 
     * Reboot your system, or only the graphical system (X). ({Ctrl+Alt+Backspace})
     * Try whether it works
-          o Start the program in which you want to type.
-          o Click on the icon of SCIM (which shows a keyboard and can be found in the system tray).
-          o Select an inputmethod, for example eo-x-sistemo or eo-plena, in the menu Other. (You can switch it on and off afterwards with {Ctrl+Space})
-          o Type "Eĥoŝanĝo ĉiuĵaŭde" to try whether the Esperanto letters work. 
+          * Start the program in which you want to type.
+          * Click on the icon of SCIM (which shows a keyboard and can be found in the system tray).
+          * Select an inputmethod, for example eo-x-sistemo or eo-plena, in the menu Other. (You can switch it on and off afterwards with {Ctrl+Space})
+          * Type "Eĥoŝanĝo ĉiuĵaŭde" to try whether the Esperanto letters work. 
     * When it doesn't work, reboot again the graphical system ({Ctrl+Alt+Backspace}) or your computer, and try again. 
 
 Much fun!
