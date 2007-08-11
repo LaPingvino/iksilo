@@ -18,7 +18,7 @@ Install mentioned files and all their dependencies:
 
 = Setting up SCIM to type in Esperanto =
 
-Warning: If you have the Ubuntu-distribution or a similar one, it is possible that the SCIM-package you got has an error, because of which you will need to perform additional steps. You can read about this [* here]. In the newest version of Ubuntu this problem seems solved. In essence the page says you to use the command `im-switch -z en_US.UTF-8 -c`, in which you have to replace en_US.UTF-8 with the appropriate locale.
+*Warning:* If you have the Ubuntu-distribution or a similar one, it is possible that the SCIM-package you got has an error, because of which you will need to perform additional steps. You can read about this [http://www.nabble.com/Official-Firefox-and-Ubuntu-Edgy-SCIM-t2950965.html here]. In the newest version of Ubuntu this problem seems solved. In essence the page says you to use the command `im-switch -z en_US.UTF-8 -c`, in which you have to replace en_US.UTF-8 with the appropriate locale.
 
     * Start SCIM with the command `scim`. ({Alt+F2} scim {Enter}) 
 
