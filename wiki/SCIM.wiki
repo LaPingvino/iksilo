@@ -5,7 +5,7 @@
 
 *Atentu:* Se vi havas la distribuon Ubuntu aŭ simila, povas esti ke la versio SCIM kiun vi povas instali havas eraron, pro kio necesos aldonaj paŝoj. Legu pri tio [http://www.nabble.com/Official-Firefox-and-Ubuntu-Edgy-SCIM-t2950965.html ĉi tie] (_Anglalingve_). En la plej nova versio de Ubuntu ĉi tiu problemo ŝajnas solvita. La esenco de la paĝo estas ke vi uzu la komandon 'im-switch -z en_US.UTF-8 -c'. Vi en tiu anstataŭu en_US.UTF-8 per via propra lokaĵaro.
 
- * Startu SCIM per la komando scim. (*{Alt+F2}* scim *{Enigklavo}*)
+ * Startu SCIM per la komando scim. (*{Alt+F2}* scim *{Enigklavo}*) (Se vi venas en ĉi tiu paĝo post instalo kaj restarto en Ubuntu, SCIM jam estas startita kaj vi povas tuj pluiri al la sekvaj paŝoj. Verŝajne vi eĉ nur bezonas elekti la ĝustan enigmetodon el la listo.)
 (Malpli necesaj paŝoj, ja rekomendindaj ĉar alie la programo ŝarĝos ĉiujn enigmetodojn kaj tio povas iom pezi por la sistemo.)
  * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
  * Elektu SCIM Setup
