@@ -1,5 +1,5 @@
 Por instali iksilon en Ubuntu 8.04 necesas nur la jenaj paŝoj (sekvos ekranfotoj):
  * Iri al "Lingva subteno" (kie oni povas instali novajn sistemajn lingvojn) kaj tie elekti subtenon por kompleksajn signojn enigi.
- * Iri al Synaptic kaj tie elekti m17m-contrib (en kiu estas la Esperantaj enigmetodoj) kaj scim-m17n (por ebligi uzi la enigmetodon kun SCIM)
+ * Iri al Synaptic kaj tie elekti m17n-contrib (en kiu estas la Esperantaj enigmetodoj) kaj scim-m17n (por ebligi uzi la enigmetodon kun SCIM)
  * Restarti la sistemon (por aktivigi la enigmetodon en SCIM)
  * Eventuale ankoraŭ plu agordu [SCIM]
