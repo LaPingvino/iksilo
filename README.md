@@ -1,6 +1,4 @@
-Ĉi tie sekvas paŝoj por instali la IME-dosieron en via Linuks-sistemo
-La plej ĝisdataj instalaj paŝoj troviĝas interrete en
-http://code.google.com/p/iksilo
+Ĉi tie sekvas paŝoj por instali la IME-dosieron en via Linuks-sistemo, konservitaj por se vi tamen iam ankoraŭ bezonus ilin. La nun plej rekomendata metodo estus instali m17n-db per via pakaĵmastrumilo, kiu devus enhavi ĉion tion.
 
 ## Dependaĵoj ##
 
