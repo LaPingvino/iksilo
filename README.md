@@ -2,7 +2,7 @@
 La plej ĝisdataj instalaj paŝoj troviĝas interrete en
 http://code.google.com/p/iksilo
 
-= Dependaĵoj =
+## Dependaĵoj ##
 
 Apud la dosieroj en ĉi tiu pakaĵo, vi bezonos SCIM.
 Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
@@ -11,13 +11,13 @@ Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
   * m17n-db
   * scim-gtk2-immodule (Dank'al Antono kaj ash_rabbi. Pro ŝajna eraro en Debian povas esti ke vi bezonas elŝuti kaj instali ĉi tiun aparte...)
 
-= Kiel instali? =
+## Kiel instali? ##
 
   * Instalu la supre menciitajn pakaĵojn kaj ties dependaĵojn. (Povas daŭri iom. Almenaŭ per Ubuntu mi estis preta post mallonge, ĉar ĉio troveblas en ĝia pakaĵaro.)
   * Metu la mim-dosierojn kiujn vi volas uzi en /usr/share/m17n aŭ en /usr/local/share/m17n , kiu ajn haveblas en via sistemo. [root-rajtoj necesas]
   * Startu la programon scim kaj agordu ĝin laŭ la sube menciitaj paŝoj por uzi la ĝustas IME-on. Verŝajne vi por tio bezonas plurfoje restarti la sistemon.
 
-= Agordi SCIM por Esperanta tajpado =
+## Agordi SCIM por Esperanta tajpado ##
 
 Atentu: Se vi havas la distribuon Ubuntu aŭ simila, povas esti ke la versio SCIM kiun vi povas instali havas eraron, pro kio necesos aldonaj paŝoj. Legu pri tio ĉi tie (Anglalingve). En la plej nova versio de Ubuntu ĉi tiu problemo ŝajnas solvita. La esenco de la paĝo estas ke vi uzu la komandon 'im-switch -z en_US.UTF-8 -c'. Vi en tiu anstataŭu en_US.UTF-8 per via propra lokaĵaro.
 
