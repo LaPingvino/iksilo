@@ -21,26 +21,26 @@ Instalu jenon kaj ĉiujn ceterajn ties dependaĵojn:
 
 Atentu: Se vi havas la distribuon Ubuntu aŭ simila, povas esti ke la versio SCIM kiun vi povas instali havas eraron, pro kio necesos aldonaj paŝoj. Legu pri tio ĉi tie (Anglalingve). En la plej nova versio de Ubuntu ĉi tiu problemo ŝajnas solvita. La esenco de la paĝo estas ke vi uzu la komandon 'im-switch -z en_US.UTF-8 -c'. Vi en tiu anstataŭu en_US.UTF-8 per via propra lokaĵaro.
 
-    * Startu SCIM per la komando scim. ({Alt+F2} scim {Enigklavo}) 
+  * Startu SCIM per la komando scim. ({Alt+F2} scim {Enigklavo}) 
 
 (Malpli necesaj paŝoj, ja rekomendindaj ĉar alie la programo ŝarĝos ĉiujn enigmetodojn kaj tio povas iom pezi por la sistemo.)
 
-    * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
-    * Elektu SCIM Setup
-    * Iru al IMEngine > Global Setup
-    * Alklaku Disable All
-    * Iru al Other kaj tie elektu la aranĝojn kun eo en la nomo kaj eventuale el aliaj grupoj ĉiujn aliajn enigmetodojn kiujn vi volas uzi. Atentu! Se vi ĉi tie nenion elektas, SCIM ne bone funkcios!
-    * Apliku kaj Akceptu 
+  * Dekstre alklaku la nun aperintan piktogramon de klavaro (tiu estas de SCIM).
+  * Elektu SCIM Setup
+  * Iru al IMEngine > Global Setup
+  * Alklaku Disable All
+  * Iru al Other kaj tie elektu la aranĝojn kun eo en la nomo kaj eventuale el aliaj grupoj ĉiujn aliajn enigmetodojn kiujn vi volas uzi. Atentu! Se vi ĉi tie nenion elektas, SCIM ne bone funkcios!
+  * Apliku kaj Akceptu 
 
 (Fino de malpli necesaj paŝoj)
 
-    * Restartu la tutan komputilon aŭ la grafikan sistemon ({Ctrl+Alt+Backspace})
-    * Provu ĉu funkcias
-          o Aktivigu programon en kiu vi povas tajpi.
-          o Klaku sur la bildeton de klavaro, tiu troviĝas en la taskopleto.
-          o Elektu enigmetodon, ekzemple eo-x-sistemo aŭ eo-plena sub la menuo Other. (Vi povos poste ŝalti aŭ malŝalti la enigmetodon per {Ctrl+Spaco})
-          o Tajpu "Eĥoŝanĝo ĉiuĵaŭde" por provi ĉu la ĉapeloj funkcias. 
-    * Eventuale ankoraŭfoje restartu la grafikan sistemon ({Ctrl+Alt+Backspace}) aŭ la tutan komputilon se ne funkcias, kaj reprovu. 
+  * Restartu la tutan komputilon aŭ la grafikan sistemon ({Ctrl+Alt+Backspace})
+  * Provu ĉu funkcias
+    * Aktivigu programon en kiu vi povas tajpi.
+    * Klaku sur la bildeton de klavaro, tiu troviĝas en la taskopleto.
+    * Elektu enigmetodon, ekzemple eo-x-sistemo aŭ eo-plena sub la menuo Other. (Vi povos poste ŝalti aŭ malŝalti la enigmetodon per {Ctrl+Spaco})
+    * Tajpu "Eĥoŝanĝo ĉiuĵaŭde" por provi ĉu la ĉapeloj funkcias. 
+  * Eventuale ankoraŭfoje restartu la grafikan sistemon ({Ctrl+Alt+Backspace}) aŭ la tutan komputilon se ne funkcias, kaj reprovu. 
 
 Multan plezuron!
 
